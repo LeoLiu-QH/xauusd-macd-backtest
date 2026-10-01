@@ -13,3 +13,6 @@ __pycache__/
 # 原始数据文件（体积大，可通过 data_loader.py 重新下载）
 data/*
 !data/.gitkeep
+
+#笔记文档不上传
+notes/
